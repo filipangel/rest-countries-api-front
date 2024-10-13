@@ -1,0 +1,8 @@
+body {
+	background-color: hsl(0, 0%, 98%);
+}
+
+.main-content {
+	padding: 2rem;
+	padding-top: 5rem;
+}
